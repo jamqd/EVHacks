@@ -3,7 +3,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.*;
 import javax.swing.*;
-
+//test
 public class TestApplet extends Applet {
 	School sc = new School("creek");
 	ArrayList codes = new ArrayList<String>();
